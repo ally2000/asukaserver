@@ -5,3 +5,5 @@ mobilefinder_55-3_iphoneos-arm
 mobileterminal_286u-4_iphoneos-arm
 
 ncurses_5.7-9_iphoneos-arm
+
+safaridownloadplugin
