@@ -1,0 +1,6 @@
+mobileterminal
+ncurses
+
+gTxtEdit
+
+safaridowloadplugin
