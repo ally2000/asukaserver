@@ -9,3 +9,4 @@ ncurses_5.7-9_iphoneos-arm
 safaridownloadplugin
 
 gTxtEdit
+apt7-lib
