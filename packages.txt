@@ -9,3 +9,5 @@ ncurses_5.7-9_iphoneos-arm
 safaridownloadplugin
 
 gTxtEdit
+
+tubefixer-1.1
