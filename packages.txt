@@ -4,3 +4,18 @@ ncurses
 gTxtEdit
 
 safaridowloadplugin
+
+ifile
+file-cmds
+firmware-sbin
+grep
+gzip
+diskdev-cmds
+p7zip
+sed
+unrar
+unzip
+zip
+
+mobilefinder
+mamu
