@@ -16,6 +16,7 @@ sed
 unrar
 unzip
 zip
+bzip2
 
 mobilefinder
 mamu
