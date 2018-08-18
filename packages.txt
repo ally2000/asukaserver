@@ -5,7 +5,7 @@ gTxtEdit
 
 safaridowloadplugin
 
-
+ifile
 file-cmds
 firmware-sbin
 grep
