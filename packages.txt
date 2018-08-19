@@ -21,6 +21,4 @@ bzip2
 mobilefinder
 mamu
 
-hclipboard
-ikeyx
 
