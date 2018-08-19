@@ -21,16 +21,3 @@ bzip2
 mobilefinder
 mamu
 
-fuzzyband
-coreutils
-coreutils-bin
-grep
-profile.d
-shell-cmds
-
-3Gfuzzybanddowngrader
-coreutils
-coreutils-bin
-grep
-profile.d
-sed
