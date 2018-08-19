@@ -22,3 +22,5 @@ mobilefinder
 mamu
 
 genesis4iphone
+
+gpsphone
