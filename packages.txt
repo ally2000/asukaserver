@@ -22,3 +22,6 @@ mobilefinder
 mamu
 
 gpsphone
+
+ericautilities
+respring++
