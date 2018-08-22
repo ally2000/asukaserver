@@ -23,5 +23,3 @@ mamu
 
 gpsphone
 
-ericautilities
-respring++
